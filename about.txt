@@ -1,0 +1,5 @@
+About Git:
+
+Git is a verson control system.
+
+Git is used to keep track of code changes.
